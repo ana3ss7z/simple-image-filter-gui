@@ -1,0 +1,28 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environments
+.venv/
+env/
+venv/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor Config
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Python Package Caches
+*.egg-info/
+dist/
+build/
+
+# Image Files (if generated temporarily)
+*.tmp
