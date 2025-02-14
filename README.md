@@ -51,15 +51,13 @@ Image filtering is a technique used to process and enhance images by applying va
    - The original image appears on the left, and the working copy on the right.
 
 3. **Apply Filters:**  
+   - Enter the filter radius for GaussianBlur and size for MedianFilter, MaxFilter, MinFilter in the input box.  
    - Select a filter from the dropdown (GaussianBlur, MedianFilter, MaxFilter, MinFilter).  
-   - Enter the filter (radius for GaussianBlur and size for MedianFilter, MaxFilter, MinFilter) in the input box.  
-   - Press "Enter" to apply the filter.  
    - Save the result using the green save icon.
 
 4. **Enhance Image:**  
-   - Choose an enhancement type (Colors, Contrast, Brightness, Sharpness).  
    - Enter a value (e.g., between 0.1 to 3 for adjustments).  
-   - Press "Enter" to apply.  
+   - Choose an enhancement type (Colors, Contrast, Brightness, Sharpness).  
    - Save using the green save icon.
 
 5. **Invert Colors:**  
